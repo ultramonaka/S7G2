@@ -99,7 +99,7 @@
   * Bit width 32
  * 0x40040004
 ----------------------------------------------------*/
-#define PCNTR2_BASE	    0x40040004
+#define PCNTR2_BASE     0x40040004
 #define PORT0_PCNTR2    (*(volatile uint32_t*)(PCNTR2_BASE+0x00000000))
 #define PORT1_PCNTR2    (*(volatile uint32_t*)(PCNTR2_BASE+0x00000020))
 #define PORT2_PCNTR2    (*(volatile uint32_t*)(PCNTR2_BASE+0x00000040))
