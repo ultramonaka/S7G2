@@ -215,19 +215,19 @@
 
 /*
 テンプレート
-#define _BASE			0x00000000
-#define   			(*(uint16_t*)(_BASE+0x0000))
-#define   			(*(uint16_t*)(_BASE+0x0000))
-#define   			(*(uint16_t*)(_BASE+0x0000))
-#define   			(*(uint16_t*)(_BASE+0x0000))
-#define   			(*(uint16_t*)(_BASE+0x0000))
-#define   			(*(uint16_t*)(_BASE+0x0000))
-#define   			(*(uint16_t*)(_BASE+0x0000))
-#define   			(*(uint16_t*)(_BASE+0x0000))
-#define   			(*(uint16_t*)(_BASE+0x0000))
-#define   			(*(uint16_t*)(_BASE+0x0000))
-#define   			(*(uint16_t*)(_BASE+0x0000))
-#define   			(*(uint16_t*)(_BASE+0x0000))
+#define _BASE           0x00000000
+#define                 (*(uint16_t*)(_BASE+0x0000))
+#define                 (*(uint16_t*)(_BASE+0x0000))
+#define                 (*(uint16_t*)(_BASE+0x0000))
+#define                 (*(uint16_t*)(_BASE+0x0000))
+#define                 (*(uint16_t*)(_BASE+0x0000))
+#define                 (*(uint16_t*)(_BASE+0x0000))
+#define                 (*(uint16_t*)(_BASE+0x0000))
+#define                 (*(uint16_t*)(_BASE+0x0000))
+#define                 (*(uint16_t*)(_BASE+0x0000))
+#define                 (*(uint16_t*)(_BASE+0x0000))
+#define                 (*(uint16_t*)(_BASE+0x0000))
+#define                 (*(uint16_t*)(_BASE+0x0000))
 
 
 */
